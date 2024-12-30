@@ -8,8 +8,7 @@ Student studying AI with background in Software Engineering
 I have 5 years coding experience, using python, java, c++, swift, and the basic set of web development languages like PHP, HTML, javascript, and some experience with using XML and TS. Im interested in meeting people who strive toward improving themselves whether in their technical skills or character.
 
 *   🌍  I'm based in KL,Malaysia
-*   ✉️  You can contact me at Ang Jianming or
-*   get to know me more here: portfolio-client-fawn-rho.vercel.app/
+*   ✉️  You can contact me at <a href="https://github.com/AngJianming">
 *   🤝  I'm open to collaborating on Local Hackathons, and other IT and AI projects
 
 ### Skills 
