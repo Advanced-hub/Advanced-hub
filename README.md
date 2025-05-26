@@ -8,8 +8,8 @@ Student studying AI with background in Software Engineering
 I have 5 years coding experience, using python, java, c++, swift, and the basic set of web development languages like PHP, HTML, javascript, and some experience with using XML and TS. Im interested in meeting people who strive toward improving themselves whether in their technical skills or character.
 
 *   🌍  I'm based in KL,Malaysia
-*   ✉️  You can contact me at [Ang Jianming](https://github.com/AngJianming)
-*   🤝  I'm open to collaborating on Local Hackathons, and other IT and AI projects
+*   ✉️  You can contact me at WhatsApp @ +60172538620 or via [LinkedIn]()
+*   🤝  I'm open to collaborating on Start ups, Business Ideas, or any other IT and AI projects
 
 ### Skills 
 <p align="left">
@@ -18,8 +18,22 @@ I have 5 years coding experience, using python, java, c++, swift, and the basic 
                     
 
   ### Socials
- <!--                 
-  <p align="left"> <a href="https://www.github.com/ProtoFaze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ProtoFaze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p> -->
+
+*   🔗 GitHub – [Advanced-hub](https://github.com/Advanced-hub)
+*   🤗 Hugging Face - [Advanced-hub](https://huggingface.co/Advanced-hub)
+*   🅾 Instagram – [advanced.hub](https://www.instagram.com/advanced.hub/)
+*   ♪ TikTok - [@advanced.hub](https://www.tiktok.com/@advanced.hub)
+*   🐦 𝕏 – [Advanced_Hub](https://github.com/Advanced-hub)
+*   ⓕ Facebook – [Advanced.Hub](https://www.facebook.com/profile.php?id=61559003610200)
+
+
+
+<!--                 
+<p align="left"> 
+  <a href="https://www.github.com/ProtoFaze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+  <a href="https://www.x.com/ProtoFaze" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a>
+</p> 
+-->
 
 ### Badges
 <!-- Github Achievements --> 
