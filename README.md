@@ -1,8 +1,8 @@
 
-Hi ![Gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+Hello there ![Gif](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
-Company based of AI/ML, Software, and Tech Accessories
+This Company based of AI/ML, Software, and Tech Accessories
 -----------------------------------------------------------
 
 I have 4 years of coding experience, using python, java, c++, swift, and the basic set of web development languages like PHP, HTML, javascript, and some experience with using XML and TS. Im interested in meeting people who strive toward improving themselves whether in their technical skills or character.
