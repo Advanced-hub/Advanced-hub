@@ -9,7 +9,7 @@ I have 4 years of coding experience, using python, java, c++, swift, and the bas
 
 *   🌍  I'm based in KL,Malaysia
 *   ✉️  You can contact me at WhatsApp @ +60172538620 or via [LinkedIn]()
-*   🤝  I'm open to collaborating on Start ups, Business Ideas, or any other IT and AI projects
+*   🤝  I'm open to collaborating on Start ups, Business Ideas, or any other IT and AI related projects
 
 <!--
 ## Skills 
